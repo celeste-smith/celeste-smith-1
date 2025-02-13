@@ -10,3 +10,11 @@ A simple web application that displays 'Hello World!' when a button is clicked. 
 ## Dependencies
 - No external dependencies. Only a web browser is required.
 
+## Screenshots
+
+### Initial Screen
+![Hello World Button](https://raw.githubusercontent.com/celeste-smith/celeste-smith/main/hello_world_button_screen1.png)
+
+### After Clicking the Button
+![Button Clicked](https://raw.githubusercontent.com/celeste-smith/celeste-smith/main/hello_world_button_clicked_screen2.png)
+
