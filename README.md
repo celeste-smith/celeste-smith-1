@@ -13,8 +13,8 @@ A simple web application that displays 'Hello World!' when a button is clicked. 
 ## Screenshots
 
 ### Initial Screen
-![Hello World Button](https://raw.githubusercontent.com/celeste-smith/celeste-smith/main/hello_world_button_screen1.png)
+![Hello World Button]([https://raw.githubusercontent.com/celeste-smith/celeste-smith/main/hello_world_button_screen1.png](https://github.com/celeste-smith/celeste-smith/blob/main/hello_world_button_homescreen.png)
 
 ### After Clicking the Button
-![Button Clicked](https://raw.githubusercontent.com/celeste-smith/celeste-smith/main/hello_world_button_clicked_screen2.png)
+![Button Clicked]([https://raw.githubusercontent.com/celeste-smith/celeste-smith/main/hello_world_button_clicked_screen2.png](https://github.com/celeste-smith/celeste-smith/blob/main/hello_world_buttonclicked_secondscreen.png)
 
