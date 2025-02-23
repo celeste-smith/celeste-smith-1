@@ -55,6 +55,6 @@ Burn Library Docs
 GitHub Documentation
 Various Rust community forums and AI-related tutorials
 
-Conclusion
+## Conclusion
 
-This project provided a foundational understanding of using Rust for AI/ML tasks. By following a structured approach, I was able to implement and train a simple linear regression model successfully. However, I recognize that Rust is a complex language, and I will need to invest more time in learning it properly. Future improvements could include expanding to polynomial regression or using different activation functions.
+This project provided a foundational understanding of using Rust for AI/ML tasks. By following a structured approach, I was able to implement and train a simple linear regression model of which I am not sure if it was successful or not. However, I recognize that Rust is a complex language, and I will need to invest more time in learning it properly. Future improvements could include expanding to polynomial regression or using different activation functions.
